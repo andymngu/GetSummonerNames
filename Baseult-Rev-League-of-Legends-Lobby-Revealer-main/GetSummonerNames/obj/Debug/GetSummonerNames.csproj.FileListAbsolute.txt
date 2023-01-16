@@ -1,0 +1,13 @@
+C:\Users\AndyM\OneDrive\Desktop\Baseult-Rev-League-of-Legends-Lobby-Revealer-main\GetSummonerNames\bin\Debug\GetSummonerNames.exe.config
+C:\Users\AndyM\OneDrive\Desktop\Baseult-Rev-League-of-Legends-Lobby-Revealer-main\GetSummonerNames\bin\Debug\GetSummonerNames.exe
+C:\Users\AndyM\OneDrive\Desktop\Baseult-Rev-League-of-Legends-Lobby-Revealer-main\GetSummonerNames\bin\Debug\GetSummonerNames.pdb
+C:\Users\AndyM\OneDrive\Desktop\Baseult-Rev-League-of-Legends-Lobby-Revealer-main\GetSummonerNames\bin\Debug\Newtonsoft.Json.dll
+C:\Users\AndyM\OneDrive\Desktop\Baseult-Rev-League-of-Legends-Lobby-Revealer-main\GetSummonerNames\bin\Debug\Newtonsoft.Json.xml
+C:\Users\AndyM\OneDrive\Desktop\Baseult-Rev-League-of-Legends-Lobby-Revealer-main\GetSummonerNames\obj\Debug\GetSummonerNames.csprojAssemblyReference.cache
+C:\Users\AndyM\OneDrive\Desktop\Baseult-Rev-League-of-Legends-Lobby-Revealer-main\GetSummonerNames\obj\Debug\GetSummonerNames.Form1.resources
+C:\Users\AndyM\OneDrive\Desktop\Baseult-Rev-League-of-Legends-Lobby-Revealer-main\GetSummonerNames\obj\Debug\GetSummonerNames.Properties.Resources.resources
+C:\Users\AndyM\OneDrive\Desktop\Baseult-Rev-League-of-Legends-Lobby-Revealer-main\GetSummonerNames\obj\Debug\GetSummonerNames.csproj.GenerateResource.cache
+C:\Users\AndyM\OneDrive\Desktop\Baseult-Rev-League-of-Legends-Lobby-Revealer-main\GetSummonerNames\obj\Debug\GetSummonerNames.csproj.CoreCompileInputs.cache
+C:\Users\AndyM\OneDrive\Desktop\Baseult-Rev-League-of-Legends-Lobby-Revealer-main\GetSummonerNames\obj\Debug\GetSummonerNames.csproj.CopyComplete
+C:\Users\AndyM\OneDrive\Desktop\Baseult-Rev-League-of-Legends-Lobby-Revealer-main\GetSummonerNames\obj\Debug\GetSummonerNames.exe
+C:\Users\AndyM\OneDrive\Desktop\Baseult-Rev-League-of-Legends-Lobby-Revealer-main\GetSummonerNames\obj\Debug\GetSummonerNames.pdb
